@@ -1,0 +1,8 @@
+Za koja dizajniramo?
+1. Job Seekers
+2. Job Transitioners
+3. Job Swappers
+
+Koji problem pokusavamo da rijesimo?
+1. Oni koji traze posao u "data" sektoru se cesto muce, jer su informacije o trzistu rada razbacane 
+2. Ne postoji jedan jedinstveni nacin da se brzo pohvata generalni trend trzista rada, uobicajeni nivoi kompenzacije i generalni kvalitet posla
